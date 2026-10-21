@@ -1,1 +1,2 @@
-Change from feature branch
+Change from feature branch AND
+Change from main branch
